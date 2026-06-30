@@ -1,5 +1,5 @@
-<img width="2404" height="1104" alt="Home Page" src="https://github.com/user-attachments/assets/9a92d87b-ef1d-4142-8682-000109518fa0" />
-<img width="2320" height="1023" alt="Customers Dashboard" src="https://github.com/user-attachments/assets/25ad55f9-034d-4c9c-b157-473d3242294f" />
-<img width="2495" height="1114" alt="Demographic Dashboard" src="https://github.com/user-attachments/assets/8a86a33c-f961-481d-acd9-337f062ee3a5" />
-<img width="2146" height="1006" alt="Risk Analysis Dashboard" src="https://github.com/user-attachments/assets/aee2f771-ea41-4a44-ad67-f2247354b8ed" />
+<img width="2507" height="1105" alt="Home Page" src="https://github.com/user-attachments/assets/340e1add-ea5c-4228-93b5-887af5ee6fd4" />
+<img width="2511" height="1113" alt="Demographic Dashboard" src="https://github.com/user-attachments/assets/d93650b0-4332-4c7b-a4c8-117707a33fa0" />
+<img width="2342" height="1043" alt="Customers Dashboard" src="https://github.com/user-attachments/assets/6f785169-4893-47b0-b471-0e90e295271f" />
+<img width="2326" height="1112" alt="Risk Analysis Dashboard" src="https://github.com/user-attachments/assets/68ee9e85-8070-4998-ac3b-1c69afa126fb" />
 <img width="1622" height="811" alt="Data Model" src="https://github.com/user-attachments/assets/08ef45bf-0334-4c3f-91b5-1eab679d9eaf" />
