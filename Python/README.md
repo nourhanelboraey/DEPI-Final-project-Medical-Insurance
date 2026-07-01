@@ -1,5 +1,5 @@
-<img width="533" height="559" alt="python 3" src="https://github.com/user-attachments/assets/b8df0c75-5e0d-4c28-a9ee-a380e9b4d56c" />
-<img width="576" height="597" alt="python 2" src="https://github.com/user-attachments/assets/953593c7-81fc-4b15-beb9-ba31923592a0" />
-<img width="561" height="587" alt="python" src="https://github.com/user-attachments/assets/ac327df2-2e49-46f5-bc4b-61cf2bfebc74" />
-<img width="823" height="215" alt="python 4" src="https://github.com/user-attachments/assets/d16c38c1-0631-4be2-914f-42dfc307f121" />
+<img width="3618" height="2344" alt="Dashboard_2_Risk_Factors" src="https://github.com/user-attachments/assets/ffbbf3f1-c47c-4275-ad61-24a0827115ad" />
+<img width="2526" height="1134" alt="Dashboard_2b_Heatmap_AgeSmoking" src="https://github.com/user-attachments/assets/55c3cd3a-8514-4eb5-83cc-efef5bb1af8b" />
+<img width="3650" height="2449" alt="Dashboard_3_Financials_RiskSegmentation" src="https://github.com/user-attachments/assets/e5f1f7a2-fcd1-4d41-81fd-2efd5efac050" />
+<img width="3171" height="1123" alt="Dashboard_3b_NetworkTier_RiskComparison" src="https://github.com/user-attachments/assets/42a30480-4eac-4f03-8cf2-e05f1ac40b86" />
 
