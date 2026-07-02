@@ -4,4 +4,4 @@
 <img width="3171" height="1123" alt="Dashboard_3b_NetworkTier_RiskComparison" src="https://github.com/user-attachments/assets/42a30480-4eac-4f03-8cf2-e05f1ac40b86" />
 <img width="1055" height="559" alt="Medical Cost Drivers & Risk Insights Dashboard" src="https://github.com/user-attachments/assets/63be8be7-81b2-4849-b986-482feaff9d2c" />
 <img width="1226" height="265" alt="Captue" src="https://github.com/user-attachments/assets/e1bd46df-e9b4-4f68-a326-8e0c221f5be0" />
-<img width="1067" height="1390" alt="WhatsApp Image 2026-07-01 at 9 54 01 PM" src="https://github.com/user-attachments/assets/fafcd821-9f10-4890-bb4b-268297ea9709" />
+<img width="1067" height="1390" alt="Data Model" src="https://github.com/user-attachments/assets/fafcd821-9f10-4890-bb4b-268297ea9709" />
