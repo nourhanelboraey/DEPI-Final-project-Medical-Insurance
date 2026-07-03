@@ -1,5 +1,5 @@
-
-<img width="1939" height="1103" alt="image" src="https://github.com/user-attachments/assets/b784a486-e717-4401-b559-4c2855bdccf0" />
-<img width="1974" height="1102" alt="image" src="https://github.com/user-attachments/assets/0736e357-0278-4b77-be65-c1d3e65b4325" />
-<img width="1964" height="1103" alt="image" src="https://github.com/user-attachments/assets/6ab49a34-b407-46df-81d7-fb34b9a1b8a4" />
-<img width="1990" height="1115" alt="image" src="https://github.com/user-attachments/assets/4827b2f1-1610-4629-a700-4dea33faa4a1" />
+<img width="1921" height="1077" alt="Home" src="https://github.com/user-attachments/assets/3ce1d1df-d908-4524-ae5f-84dabb0bcbd6" />
+<img width="1947" height="1086" alt="Dempgraphics" src="https://github.com/user-attachments/assets/5c5a62e4-ccca-4b27-8bc9-167c8fd506b7" />
+<img width="1945" height="1079" alt="Customers" src="https://github.com/user-attachments/assets/1532530b-ff39-4512-b4d7-ce08a3e69b8f" />
+<img width="1944" height="1095" alt="Risk Analysis" src="https://github.com/user-attachments/assets/e65999c4-7c6c-48bb-a88d-1f4d3b9b0eed" />
+<img width="1940" height="1084" alt="Policy & Operations" src="https://github.com/user-attachments/assets/24e64612-80c2-44e6-8885-0cdacbe6bb4a" />
