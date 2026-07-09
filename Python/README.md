@@ -1,7 +1,11 @@
-<img width="3618" height="2344" alt="Dashboard_2_Risk_Factors" src="https://github.com/user-attachments/assets/ffbbf3f1-c47c-4275-ad61-24a0827115ad" />
-<img width="2526" height="1134" alt="Dashboard_2b_Heatmap_AgeSmoking" src="https://github.com/user-attachments/assets/55c3cd3a-8514-4eb5-83cc-efef5bb1af8b" />
-<img width="3650" height="2449" alt="Dashboard_3_Financials_RiskSegmentation" src="https://github.com/user-attachments/assets/e5f1f7a2-fcd1-4d41-81fd-2efd5efac050" />
-<img width="3171" height="1123" alt="Dashboard_3b_NetworkTier_RiskComparison" src="https://github.com/user-attachments/assets/42a30480-4eac-4f03-8cf2-e05f1ac40b86" />
-<img width="1055" height="559" alt="Medical Cost Drivers & Risk Insights Dashboard" src="https://github.com/user-attachments/assets/63be8be7-81b2-4849-b986-482feaff9d2c" />
-<img width="1226" height="265" alt="Captue" src="https://github.com/user-attachments/assets/e1bd46df-e9b4-4f68-a326-8e0c221f5be0" />
+<img width="2282" height="1267" alt="image" src="https://github.com/user-attachments/assets/886859a2-d0d4-4d31-b290-7573157cc358" />
+<img width="1859" height="869" alt="image" src="https://github.com/user-attachments/assets/8296e29b-b289-40d8-8ff7-a0d3ed4b3a60" />
+<img width="1897" height="784" alt="image" src="https://github.com/user-attachments/assets/1c2dcb72-ce5d-4df9-a82d-66d0c349350d" />
+<img width="2653" height="1719" alt="image" src="https://github.com/user-attachments/assets/0d590589-3129-43d3-82b6-cb10ba855933" />
+<img width="1856" height="835" alt="image" src="https://github.com/user-attachments/assets/8ce71190-54da-4114-8de0-43cd390ac143" />
+<img width="2677" height="1796" alt="image" src="https://github.com/user-attachments/assets/9a8ae2e8-7ee0-4dff-a49d-1546d66b5269" />
+<img width="2330" height="825" alt="image" src="https://github.com/user-attachments/assets/d296436f-e99c-4102-9015-0a9fbd829ff5" />
+<img width="3081" height="1665" alt="image" src="https://github.com/user-attachments/assets/10172aa7-449b-4e15-b8e7-dcd68a21b188" />
+![Uploading image.png…]()
+
 <img width="1067" height="1390" alt="Data Model" src="https://github.com/user-attachments/assets/fafcd821-9f10-4890-bb4b-268297ea9709" />
