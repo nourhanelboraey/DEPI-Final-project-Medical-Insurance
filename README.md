@@ -7,8 +7,6 @@ A full data-analytics pipeline built on a 100,000-record medical insurance datas
 - Nourhan Adel Zakria Elboraey — Team Leader
 - Taha Mohammed Hussein Ali
 - Radwa Sayed Rashad Mohamed
-- Ragab Ahmed Ragab Mohamed
-- Elham Eid Saber
 
 ## Dataset
 
