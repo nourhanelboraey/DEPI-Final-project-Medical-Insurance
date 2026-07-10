@@ -4,9 +4,9 @@ A full data-analytics pipeline built on a 100,000-record medical insurance datas
 
 ## Team (Team 3)
 
-- Nourhan Adel Zakria Elboraey — Team Leader
-- Taha Mohammed Hussein Ali
-- Radwa Sayed Rashad Mohamed
+- Nourhan Adel Zakria Elboraey — Team Leader [https://github.com/nourhanelboraey]
+- Taha Mohammed Hussein Ali  [https://github.com/Taha-M-H]
+- Radwa Sayed Rashad Mohamed  [https://github.com/RADWa-2024]
 
 ## Dataset
 
