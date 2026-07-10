@@ -28,4 +28,5 @@ The `.pbix` contains six pages:
 <img width="1761" height="994" alt="image" src="https://github.com/user-attachments/assets/e5426107-f6f2-4466-a44a-e804ca3ef93c" />
 <img width="1767" height="989" alt="image" src="https://github.com/user-attachments/assets/2f919b15-f892-4378-a915-9b2859fd6b77" />
 <img width="1758" height="999" alt="image" src="https://github.com/user-attachments/assets/21cc0327-1cec-46c0-9670-201349d065ce" />
-<img width="1780" height="992" alt="image" src="https://github.com/user-attachments/assets/9aae2d67-001f-4aef-94e4-2eb2fbaab569" />
+<img width="2124" height="1254" alt="image" src="https://github.com/user-attachments/assets/060a9dfc-3ac5-4e5f-bdf8-67fc26ff6291" />
+
